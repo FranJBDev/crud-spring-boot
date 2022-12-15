@@ -1,3 +1,6 @@
-/home/fjb/Spring/Leccion03/mx.com.gm_HolaMundoSpringData/src/main/java/mx/com/gm/web/ControladorInicio.java
-/home/fjb/Spring/Leccion03/mx.com.gm_HolaMundoSpringData/src/main/java/mx/com/gm/domain/Persona.java
-/home/fjb/Spring/Leccion03/mx.com.gm_HolaMundoSpringData/src/main/java/mx/com/gm/HolaSpringApplication.java
+/home/fjb/Spring/Leccion04/ControlClientes/src/main/java/mx/com/gm/web/ControladorInicio.java
+/home/fjb/Spring/Leccion04/ControlClientes/src/main/java/mx/com/gm/servicio/PersonaServiceImpl.java
+/home/fjb/Spring/Leccion04/ControlClientes/src/main/java/mx/com/gm/domain/Persona.java
+/home/fjb/Spring/Leccion04/ControlClientes/src/main/java/mx/com/gm/dao/PersonaDao.java
+/home/fjb/Spring/Leccion04/ControlClientes/src/main/java/mx/com/gm/servicio/PersonaService.java
+/home/fjb/Spring/Leccion04/ControlClientes/src/main/java/mx/com/gm/HolaSpringApplication.java
