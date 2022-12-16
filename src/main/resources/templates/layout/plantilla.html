@@ -7,10 +7,10 @@
     </head>
     <body>
         <header th:fragmnet="header">
-            <h1>Control de Clientes</h1>
+            <h1 th:text="#{plantilla.titulo}">Titulo</h1>
         </header>
         <footer th:fragmnet="footer">
-            <p>Derechos Reservados FranJBDev</p>
+            <p>[[#{plantilla.pie-pagina}]] (c)</p>
         </footer>
     </body>
 </html>
